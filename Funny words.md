@@ -1,0 +1,21 @@
+- websockets
+- rtc - real time communication
+- default value handling
+- local storage
+- JSON
+- XML
+- separate relation
+- Redis
+- Cockroach DB
+- PostgreSQL	
+- Rate Limiting
+- Uploading flow
+- NextJS
+- queries
+- router in nextjs
+- fuzzy search
+- redis
+
+- schema visulaiser 
+- prisma ERD
+- prisma schema

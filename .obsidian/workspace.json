@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "7646763743a9d1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "404c41979b6ed464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4fafb03bbab85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/What is an Image and a Container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is an Image and a Container"
+            }
+          },
+          {
+            "id": "dd940c5494b2ea98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker (OS Guest lecture)/Guest Lecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guest Lecture"
+            }
+          },
+          {
+            "id": "0e6497b90877b374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/How is docker different from github.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How is docker different from github"
+            }
+          },
+          {
+            "id": "a9d41c330951ad59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "2d33d6623571ca26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Where to start/Basic Terminology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Terminology"
+            }
+          },
+          {
+            "id": "69801b4c682212e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React"
+            }
+          },
+          {
+            "id": "f2c44492bce55c80",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19bdde466cedf8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "90110ffbbef6c675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f18da7a9fb0989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4fc3df319cd3aa42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "529ec7ed96a19b89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2582f5a061c59472",
+    "type": "split",
+    "children": [
+      {
+        "id": "0666a5338ec7acde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c3af1deb9973d2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prisma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prisma"
+            }
+          },
+          {
+            "id": "0a782d2aa99dd26b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prisma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prisma"
+            }
+          },
+          {
+            "id": "33e3e34fc1645b74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8d62a61fe1edc928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prisma.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prisma"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2c44492bce55c80",
+  "lastOpenFiles": [
+    "Docker/Docker.md",
+    "Docker/Docker (OS Guest lecture)/Guest Lecture.md",
+    "React/React.md",
+    "Where to start/Frontend.md",
+    "Where to start/Start Here.md",
+    "Where to start/Basic Terminology.md",
+    "notes.md",
+    "Difference between `npm run dev`, `npm run build`, `npm start`.md",
+    "CSS.md",
+    "Bootstrap.md",
+    "APIs/Paradigms.md",
+    "APIs/API Design.md",
+    "Docker/How is docker different from github.md",
+    "Docker/Initialisation.md",
+    "Docker/Docker (OS Guest lecture)/Everything is a File.md",
+    "Docker/What is an Image and a Container.md",
+    "Docker/Questions.md",
+    "Docker/Docker (OS Guest lecture)/Process vs Threads.md",
+    "Docker/Docker (OS Guest lecture)/Entrepreneurship.md",
+    "Docker/Docker (OS Guest lecture)/Dual Mode Linux.md",
+    "Docker/Docker (OS Guest lecture)/Asynchronous Programming.md",
+    "Web.md",
+    "From.md",
+    "Node JS.md",
+    "JavaScript.md",
+    "HTML.md",
+    "Docker/Docker (OS Guest lecture)",
+    "Docker",
+    "Where to start",
+    "Backend",
+    "APIs",
+    "Images/Pasted image 20250203154021.png",
+    "React",
+    "Images/Pasted image 20250203145110.png",
+    "Images/Pasted image 20250203145144.png",
+    "Images/Pasted image 20250203145129.png",
+    "NEXT js",
+    "Images/Pasted image 20250113020613.png",
+    "Images/Pasted image 20250113011916.png",
+    "Images/Pasted image 20250113020310.png",
+    "Images/Pasted image 20250113013738.png",
+    "ORM",
+    "Other",
+    "Other/SEM",
+    "Images/Pasted image 20240622131926.png",
+    "Images/Pasted image 20240622193400.png",
+    "Untitled.canvas"
+  ]
+}
