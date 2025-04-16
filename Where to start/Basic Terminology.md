@@ -24,7 +24,7 @@ jsx, tsx
 SSR, SSG, CSR
 client and server components
 Parallel routes
-
+Server Actions
 ### Docker
 Images
 Container

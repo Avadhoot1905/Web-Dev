@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -245,7 +245,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2c44492bce55c80",
+  "active": "2d33d6623571ca26",
   "lastOpenFiles": [
     "Docker/Docker.md",
     "Docker/Docker (OS Guest lecture)/Guest Lecture.md",
