@@ -1,4 +1,4 @@
-[[ORM/Introduction|Introduction]]
+[[ORM|ORM]]
 ## 📁 Let's say you have a Next.js project
 
 Your project folder looks like this:

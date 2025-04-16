@@ -1,4 +1,4 @@
-[[Call with Kairav]]
+[[Server side and Client Side]]
 [Video Tutorial](https://youtu.be/ot9yuKg15iA?si=aFRnEKuUrHwRvx5U)
 
 ## **OAuth for Beginners – A Simple Guide 🚀**

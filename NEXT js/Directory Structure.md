@@ -1,4 +1,4 @@
-[[NEXT js/Introduction|Introduction]]
+[[Nextjs|Nextjs]]
 In **Next.js**, the directory structure follows a convention that helps organize files efficiently. Here’s a brief overview:
 
 ### **Key Directories in a Next.js Project**

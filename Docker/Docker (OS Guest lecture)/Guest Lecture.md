@@ -1,7 +1,7 @@
 [[Docker|Docker]]
 
 1st half: docker 
-2nd half: [[Entrepreneurship]]
+2nd half: [[Entrepreneurship]] - Not imp
 
 - [[Process vs Threads]]
 - [[Asynchronous Programming]]

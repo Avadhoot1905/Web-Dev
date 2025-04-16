@@ -1,4 +1,4 @@
-[[NEXT js/Introduction|Introduction]]
+[[Nextjs|Nextjs]]
 To initialize a Next.js project, follow these steps:
 
 ### **1. Install Node.js (if not already installed)**

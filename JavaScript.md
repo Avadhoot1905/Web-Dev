@@ -48,7 +48,6 @@ var b = '1'
 a == b => true
 a === b => false
 
-
 # How it is used in DOM
 
 - inline
@@ -91,4 +90,3 @@ calculator(a,b,div);
 
 - objects and constructor functions - literally OOPS
 - methods - basically class functions
-- 

@@ -34,6 +34,7 @@ This repo includes notes, code snippets, and bite-sized explanations on a variet
 
 While you're free to browse this vault in any markdown viewer, **I strongly recommend opening it with [Obsidian](https://obsidian.md/)** to get the full experience — backlinks, graph view, folders, and more. It’s where this vault really shines.
 
+If you are a beginner, [[Start Here]]
 ### Quick Start:
 ```bash
 git clone https://github.com/Avadhoot1905/Web-Dev.git
